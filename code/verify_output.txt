@@ -1,0 +1,36 @@
+[PASS] Sym^2 and Lambda^2 of the half-spinor of so(2r), r=2..20
+[PASS] Lambda^1 in Sym^2(Delta_+) iff D = 2 mod 8
+[PASS] RHS of eqs (3.5)-(3.8) of arXiv:1811.06101 = all of Sym^2(Delta_+)
+[PASS] cubic identity in (9,1): holds=True, N=16, 2(d-2)=16  (|Y|/|x|^3=1.33e-16)
+[PASS] cubic identity in (5,5): holds=True, N=16, 2(d-2)=16  (|Y|/|x|^3=1.30e-16)
+[PASS] cubic identity in (1,9): holds=True, N=16, 2(d-2)=16  (|Y|/|x|^3=1.13e-16)
+[PASS] cubic identity in (17,1): holds=False, N=256, 2(d-2)=32  (|Y|/|x|^3=2.93e-01)
+[PASS] cubic identity in (13,5): holds=False, N=256, 2(d-2)=32  (|Y|/|x|^3=3.58e-01)
+[PASS] cubic identity in (9,9): holds=False, N=256, 2(d-2)=32  (|Y|/|x|^3=2.82e-01)
+[PASS] cubic identity in (25,1): holds=False, N=4096, 2(d-2)=48  (|Y|/|x|^3=8.58e-02)
+[PASS] weak identity R in (9,1): holds=True, j=-0.5000  (residual 1.71e-16)
+[PASS] weak identity R in (5,5): holds=True, j=-0.5000  (residual 2.10e-16)
+[PASS] weak identity R in (17,1): holds=False  (residual 9.96e-01)
+[PASS] weak identity R in (25,1): holds=False  (residual 1.00e+00)
+[PASS] trace identities in (9,1)  (0.0e+00, 0.0e+00)
+[PASS] trace identities in (17,1)  (0.0e+00, 0.0e+00)
+[PASS] null-projected (9,1), k=0 real frame, residual D'=10: dim K=16, absorbable=True  (residual 3.0e-15)
+[PASS] null-projected (10,2), k=1 real frame, residual D'=10: dim K=16, absorbable=True  (residual 1.6e-15)
+[PASS] null-projected (11,3), k=2 real frame, residual D'=10: dim K=16, absorbable=True  (residual 1.5e-15)
+[PASS] null-projected (12,4), k=3 real frame, residual D'=10: dim K=16, absorbable=True  (residual 1.4e-15)
+[PASS] null-projected (13,5), k=4 real frame, residual D'=10: dim K=16, absorbable=True  (residual 2.6e-15)
+[PASS] null-projected (6,6), k=1 real frame, residual D'=10: dim K=16, absorbable=True  (residual 1.4e-15)
+[PASS] null-projected (7,7), k=2 real frame, residual D'=10: dim K=16, absorbable=True  (residual 2.8e-15)
+[PASS] null-projected (17,1), k=0 real frame, residual D'=18: dim K=256, absorbable=False  (residual 9.8e-01)
+[PASS] null-projected (18,2), k=1 real frame, residual D'=18: dim K=256, absorbable=False  (residual 9.8e-01)
+[PASS] null-projected (19,3), k=0 real frame, residual D'=22: dim K=1024, absorbable=False  (residual 1.0e+00)
+[PASS] null-projected (19,3), k=2 real frame, residual D'=18: dim K=256, absorbable=False  (residual 9.8e-01)
+[PASS] null-projected (20,4), k=1 real frame, residual D'=22: dim K=1024, absorbable=False  (residual 1.0e+00)
+[PASS] null-projected (20,4), k=3 real frame, residual D'=18: dim K=256, absorbable=False  (residual 9.9e-01)
+[PASS] null-projected (17,1), k=4 complex frame, residual D'=10: dim K=16, absorbable=True  (residual 2.8e-15)
+[PASS] null-projected (19,3), k=2 complex frame, residual D'=18: dim K=256, absorbable=False  (residual 9.8e-01)
+[PASS] Majorana structure in (17,1); conj(n_i) = m_i; n m + m n = 2
+[PASS] real null frames with k = min(s,t) pairs: n.n = 0, n_i.m_j = delta_ij
+[PASS] massless multiplet bound 2^{S/4} vs vector multiplet in (9+8n,1)
+
+34 checks passed, 0 failed

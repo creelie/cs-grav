@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+paper/tex/*.aux
+paper/tex/*.log
+paper/tex/*.out
+paper/tex/*.toc
+paper/tex/*.fls
+paper/tex/*.fdb_latexmk
+paper/tex/*.synctex.gz
+paper/tex/main.pdf
+paper/tex/hexagon.pdf
+dist/
