@@ -18,7 +18,7 @@ In particular there is no such theory in (9+8n)+1, (10+8n)+2, (11+8n)+3 or (12+8
 
 The proof reduces the cubic fermion terms to a Fierz identity on the residual spinors and shows (Theorem 3.3) that symmetric gamma matrices satisfying that identity on a d-dimensional space have spinor dimension 2(d−2), which happens only for d = 3, 4, 6, 10, the division-algebra dimensions.
 
-**Single time (Theorem 6.1).** In (9+8n)+1 with n ≥ 1, every massless supermultiplet of a unitary theory without tensor charges has at least 2<sup>2<sup>2+4n</sup></sup> states, half of them bosonic. So there is no massless vector multiplet: for n = 1 a vector multiplet would have 16 bosonic states, while the bound is 2<sup>64</sup>.
+**Single time (Theorem 6.1).** In (9+8n)+1 with n ≥ 1, every massless supermultiplet of a unitary theory without tensor charges has at least 2<sup>2<sup>2+4n</sup></sup> states, half of them bosonic. So a unitary theory with no tensor charges on its massless states has no massless vector multiplet: for n = 1 a vector multiplet would have 16 bosonic states, while the bound is 2<sup>64</sup>.
 
 ## Layout
 
@@ -45,7 +45,7 @@ The checks are double-precision tests in explicit gamma matrices of identities t
 
 ## Citing
 
-Cite the paper and this archive, release [v1.0.0](https://github.com/creelie/cs-grav/releases/tag/v1.0.0); see `CITATION.cff`.
+Cite the paper and this archive. Release v1.0.0 is archived on Zenodo under [doi:10.5281/zenodo.23558751](https://doi.org/10.5281/zenodo.23558751); the DOI [10.5281/zenodo.23558750](https://doi.org/10.5281/zenodo.23558750) stands for all versions. See `CITATION.cff`.
 
 ## License
 
