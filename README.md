@@ -45,7 +45,7 @@ The checks are double-precision tests in explicit gamma matrices of identities t
 
 ## Citing
 
-Cite the paper and this archive. Release v1.0.0 is archived on Zenodo under [doi:10.5281/zenodo.23558751](https://doi.org/10.5281/zenodo.23558751); the DOI [10.5281/zenodo.23558750](https://doi.org/10.5281/zenodo.23558750) stands for all versions. See `CITATION.cff`.
+Cite the paper and this archive. Release v1.0.0 is archived on Zenodo under [doi:10.5281/zenodo.23558751](https://doi.org/10.5281/zenodo.23558751), and each later release under a DOI of its own; the DOI [10.5281/zenodo.23558750](https://doi.org/10.5281/zenodo.23558750) stands for all versions and resolves to the latest. See `CITATION.cff`.
 
 ## License
 

@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite the paper and this archive."
 title: "Supersymmetric Yang-Mills theories with several times reduce to ten dimensions: paper and verification code"
-version: 1.0.0
-doi: 10.5281/zenodo.23558751
+version: 1.0.1
+doi: 10.5281/zenodo.23558750
 date-released: 2026-10-22
 identifiers:
   - type: doi
