@@ -1,0 +1,24 @@
+{
+  "title": "Supersymmetric Yang-Mills theories with several times reduce to ten dimensions: paper and verification code",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Bhattacharjee, Deep",
+      "orcid": "0000-0003-0466-750X",
+      "affiliation": "Formerly, Electro-Gravitational Space Propulsion Laboratory (EGSPL), Bhubaneswar, India; formerly, University of Calcutta, Kolkata, India"
+    }
+  ],
+  "description": "<p>LaTeX source, PDF and verification code for the paper <em>Supersymmetric Yang-Mills theories with several times reduce to ten dimensions</em>. The paper proves that a supersymmetric Yang-Mills theory built on k mutually orthogonal null vectors in signature (s,t), in the manner of Nishino's theories in (9+m)+(1+m), satisfies k &le; min(s,t), s+t-2k &isin; {2,10} and s-t &isin; {8,0,-8}. There is therefore no such theory in (9+8n)+1, (10+8n)+2, (11+8n)+3 or (12+8n)+4 for n &ge; 1, including 27+3 and 19+3. In (9+8n)+1 with n &ge; 1 every massless supermultiplet without tensor charges has at least 2^(2^(2+4n)) states, so no unitary theory has a massless vector multiplet. The Python programs check the statements in explicit gamma matrices (34 checks) and draw the figures; no proof in the paper depends on them.</p>",
+  "keywords": [
+    "supersymmetric Yang-Mills theory",
+    "two-time physics",
+    "signature of space-time",
+    "null projection",
+    "Fierz identity",
+    "division algebras",
+    "Majorana-Weyl spinors"
+  ],
+  "access_right": "open"
+}
